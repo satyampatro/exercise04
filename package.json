@@ -1,0 +1,24 @@
+{
+  "name": "exercise04",
+  "version": "1.0.0",
+  "description": "Each mission contains one or more tasks that the user has to do. Once all the tasks of a mission are done by the user, a payment is issued. At times, these tasks have dependencies as well.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyampatro/exercise04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyampatro/exercise04/issues"
+  },
+  "homepage": "https://github.com/satyampatro/exercise04#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
